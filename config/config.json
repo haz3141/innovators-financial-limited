@@ -1,15 +1,17 @@
 {
   "development": {
+    "port": 3306,
     "username": "root",
-    "password": "root",
-    "database": "exampledb",
+    "password": "Hondacbr60?!",
+    "database": "accounts_db",
     "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
+    "port": 3306,
     "username": "root",
-    "password": "root",
-    "database": "testdb",
+    "password": "Hondacbr60?!",
+    "database": "accounts_db",
     "host": "localhost",
     "dialect": "mysql",
     "logging": false
