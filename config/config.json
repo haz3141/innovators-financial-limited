@@ -1,16 +1,16 @@
 {
   "development": {
-    "port": 3306,
+    "port": 8889,
     "username": "root",
-    "password": "Hondacbr60?!",
+    "password": "root",
     "database": "accounts_db",
     "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
-    "port": 3306,
+    "port": 8889,
     "username": "root",
-    "password": "Hondacbr60?!",
+    "password": "root",
     "database": "accounts_db",
     "host": "localhost",
     "dialect": "mysql",
