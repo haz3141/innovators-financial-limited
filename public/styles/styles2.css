@@ -1,0 +1,51 @@
+.list-group-item {
+  line-height: 2.5;
+}
+
+body {
+  background-image: linear-gradient(to right, rgb(20, 20, 20), rgb(235, 25, 25), rgb(190, 158, 158));
+  height: 100%;
+}
+
+.container {
+  color: rgb(211, 197, 197);
+}
+
+html {
+  height: 100%;
+}
+
+.collapse {
+  display: flex;
+}
+
+.navbar {
+  border-bottom: rgb(110, 106, 106) solid 2px;
+}
+
+#login {
+  margin-left: 1050px;
+}
+
+.financial {
+  background: rgb(207, 195, 195, 0.2);
+  border-left: solid rgb(110, 106, 106) 2px;
+  border-right: solid rgb(110, 106, 106) 2px;
+  border-bottom: solid rgb(110, 106, 106) 2px;
+}
+
+.innovate {
+  text-shadow: 0 0 10px rgb(53, 49, 49);
+}
+
+.works {
+  margin-top: 100px;
+  color: rgb(180, 156, 156);
+  text-shadow: 0 0 10px rgb(76, 71, 71);
+}
+
+.footer {
+  margin-top: 100px;
+  color: white;
+  border-top: rgb(110, 106, 106) solid 4px;
+}
